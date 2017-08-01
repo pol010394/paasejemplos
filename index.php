@@ -13,7 +13,7 @@
      }
 </script>
 
-<!---el rel="stylesheet me permite colocar el tamÒos de mis cuadritos pekeÒso--->
+<!---el rel="stylesheet me permite colocar el tam√±os de mis cuadritos peke√±so--->
 <style>
     #caja{
         background: #f0f0f0;
@@ -69,11 +69,11 @@
                  <h1><font  color="#481397"> INGENIERIA EN SISTEMAS Y COMPUTACION </font><span><font color="#481397"> 
              </header>	
     <img class="contenedor" src="images/sello.png"width="250" height="250">
- <h1><font  color="#481397"> ASIGNATURA INTELIGENCIA ARTIFICAL</font><span><font color="#481397"> </h1>
+ <h1><font  color="#481397"> Tecnolog√≠a y arquitectura de servicios </font><span><font color="#481397"> </h1>
   <h1><font  color="#481397"> REALIZADOR POR: </font><span><font color="#481397"> </h1>
   <h1><font  color="#481397"> PABLO CALAPUCHA</font><span><font color="#481397"> </h1>
-  <h1><font  color="#481397"> ANJELO MINANGO</font><span><font color="#481397"> </h1>
- <h1><font  color="#481397"> WILMER VALLE</font><span><font color="#481397"> </h1>
+  <h1><font  color="#481397"> BRYAM YUCTA</font><span><font color="#481397"> </h1>
+ <h1><font  color="#481397"> SHIRLEY ADRAINO</font><span><font color="#481397"> </h1>
 	</div>
         <h1 ><font  color="#000000"><p ALIGN="CENTER">El Mono y la Banana</p></font><span>  </span></h1>
         <p ALIGN="CENTER"><img class="contenedor" src="images/IMAGEN-16563033-2.jpg"width="250" height="250"></p>
