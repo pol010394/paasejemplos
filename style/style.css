@@ -1,0 +1,17 @@
+* {
+	margin:00;
+	padding:0;
+}
+ 
+
+ /*espacio de derecha de los cuadros*/
+header {
+	
+    margin-top:1px;
+    width: 100%;
+    overflow: hidden;
+    height: 150px;
+    position: relative;
+}
+ 
+ 

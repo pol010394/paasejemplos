@@ -1,0 +1,86 @@
+*{/*esapcio texto de cada incono*/
+	margin:3.21px;
+	padding:00px;
+	font-family: Helvetica Neue; 
+}
+
+/*para titulos*/
+
+div#titulo{
+	width:99%;
+	margin-top:10px;
+        text-align: center;
+        color:#00FA9A;
+     
+}
+/*para modificar tamaño de el titulo*/
+
+
+p#subheader{
+	text-align: center;
+	color:#191970;
+	margin-top:240px;
+	font-size: 1.9em;
+}
+
+
+/*para colocar el tamaño de cada opcion de incio*/
+div.contenedor{
+        margin-top:40px;  /*espacio texto*/
+    	width: 289px;
+	height:250px;
+        float: left;
+        -webkit-transition: height .2s;
+}
+/*estilo de color de cada cuadro*/
+div#uno{
+	background-color:#07E9E9;
+        }
+
+div#dos{
+	background-color:#87CEEB;
+}
+
+div#tres{
+	background-color:#ADD8E6;
+}
+
+div#cuatro{
+	background-color:#6495ED;
+}
+
+div#cinco{
+	background-color: #40E0D0;
+}
+/*colocar el tmaño del icono*/
+img.icon{
+	display: block;
+	margin: 50px auto;
+	background-color: rgba(255,255,255,0.15);
+	width: 59px;
+	padding: 25px;
+	-webkit-border-radius: 10%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(2,255,255,0);/*poner efecto de bjar al texto*/
+	-webkit-transition: box-shadow .4s;/*poner efecto de agrandar icono*/
+}
+/*texto iconos*/
+p.texto{
+	font-size: 1.2em;
+	color:#191970;
+	text-align: center;
+	padding-top:10px;
+	
+}
+
+/*div.contenedor:hover{
+	height:250px;
+}*/
+/*para lograr el efecto q el texto se baje*/
+div.contenedor:hover p.texto{
+	padding-top: 25px;
+	opacity: 1;
+}
+/*para lograr el efecto como de luz en el icono*/
+div.contenedor:hover img.icon{
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+}
